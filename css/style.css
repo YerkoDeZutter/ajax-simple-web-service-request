@@ -1,0 +1,19 @@
+body{
+  background-color: #10101a;
+}
+
+#quoteBlock{
+  width: 500px;
+  margin: auto;
+  text-align: center;
+  color: white;
+}
+
+#persImg{
+  border-radius: 50%;
+  border: solid 10px white;
+}
+
+#extraInfo{
+  opacity: 0.5;
+}
